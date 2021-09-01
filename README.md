@@ -10,8 +10,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 **Data Science Intern** @ [enim.ai](https://www.enim.ai/) _(Jan - May 2021)_ <br>
 Non-profit buisness organisation, intended towards limiting profit and enhancing customer satisfaction.
-  - Implementing ML model, which searches for scrapped data based on a context news abstract and tries to indentify the counterfeit.
-  - Contribution towards developing backend server. 
+  - Implemented ML model, which searches for scrapped data based on a context news abstract and tries to indentify the counterfeit.
+  - Contributed towards developing backend server. 
   - **_Technologies used:_** Python, DL frameworks(pytorch, tensorflow), Flask(LitElement).
 <br><br>
 
