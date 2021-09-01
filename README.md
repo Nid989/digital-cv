@@ -12,7 +12,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Non-profit buisness organisation, intended towards limiting profit and enhancing customer satisfaction.
   - Implemented ML model, which searches for scrapped data based on a context news abstract and tries to indentify the counterfeit.
   - Contributed towards developing backend server. 
-  - **_Technologies used:_** Python, DL frameworks(pytorch, tensorflow), Flask(LitElement).
+  - **_Technologies used:_** Python, DL frameworks(pytorch, tensorflow), Flask (LitElement).
 <br><br>
 
 
