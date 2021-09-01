@@ -6,13 +6,25 @@ Data Sciene and NLP Enthusiast
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+## 👩🏼‍🎓 Education
+
+**12-week intensive coding course** focused on full-stack JavaScript<br>
+[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
+
+**Bachelor of Technology** in Computer Science<br>
+[Navrachna University](https://nuv.ac.in//) - Vadodara, Gujarat, India _(2018 - 2022)_
+
+**Senior Secondary (CBSE)** for Journalism and New Media<br>
+[American University](https://www.american.edu/) - Washington DC, USA _(Fall 2014)_
+
+
 ## 👩🏼‍💻 Technical Experience
 
 **Data Science Intern** @ [enim.ai](https://www.enim.ai/) _(Jan - May 2021)_ <br>
 Non-profit buisness organisation, intended towards limiting profit and enhancing customer satisfaction.
   - Implemented ML model, which searches for scrapped data based on a context news abstract and tries to indentify the counterfeit.
   - Contributed towards developing backend server. 
-  - **_Technologies used:_** Python, DL frameworks(pytorch, tensorflow), Flask (LitElement).
+  - **_Technologies used:_** Python, DL frameworks(pytorch, tensorflow), Flask.
 <br><br>
 
 
