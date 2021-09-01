@@ -2,9 +2,20 @@
 
 Data Sciene and NLP Enthusiast
 
+[Email](mailto:nidbhavsar989@gmail.com) / [LinkedIn](https://www.linkedin.com/in/nidhir-bhavsar-054b231b6/) / [GitHub](https://github.com/Nid989/) 
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## 👩🏼‍💻 Technical Experience
+
+**Data Science Intern** @ [enim.ai](https://www.enim.ai/) _(Jan - May 2021)_ <br>
+Non-profit buisness organisation, intended towards limiting profit and enhancing customer satisfaction.
+  - Implementing ML model, which searches for scrapped data based on a context news abstract and tries to indentify the counterfeit.
+  - Contribution towards developing backend server. 
+  - **_Technologies used:_** Python, DL frameworks(pytorch, tensorflow), Flask(LitElement).
+<br><br>
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
