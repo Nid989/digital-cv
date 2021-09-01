@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Nidhir Bhavsar
 
-You can use the [editor on GitHub](https://github.com/Nid989/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Data Sciene and NLP Enthusiast
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
